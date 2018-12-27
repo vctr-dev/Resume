@@ -32,6 +32,7 @@ Some notable achievements include:
 	- Grunt
 	- Webpack
 	- ESLint
+	- Git
 
 ## Employment History
 
