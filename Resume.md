@@ -40,19 +40,14 @@ Some notable achievements include:
 
 - _07/2015 - Current_
 - [Accelo](www.accelo.com) is a professional service application that helps small businesses and startups to manage their business administration. They handle things such as invoices, quotations, client relationship management, issues, project management, and many other aspects of running a business. They integrate with other services such as Quickbooks, Xero, Gmail, and Zapier.
-- Role:
-	- Web full stack development
-	- Mobile development
-	- Technical interviews
-	- Talks and Training
-	- Project Management
-	- Bug fixes
-	- Feature builds
-	- Tooling
-- Other initiatives
-	- Organized book club that led to the clean code movement in the company
-	- Implemented custom eslint plugins
-	- Wrote libraries to introduce design patterns to the teams
+- Responsibilities
+	- Web and mobile full stack development with focus on feature builds, bug fixes, and tooling.
+	- Conducted technical interviews, talks and training for the different development teams.
+- Achievements
+	- Built keynote features such as complex dashboards and formula entry fields.
+	- Developed libraries to introduce design patterns to development teams.
+	- Introduced and enforced best practises through linting tools.
+	- Organized book club that led to the clean code movement in the company.
 - Stack: AngularJS, HTML, NPM, Grunt, Perl, MongoDB, Jenkins, and MySQL.
 
 ### Software Developer at Delv Pty Ltd
