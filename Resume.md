@@ -2,7 +2,7 @@
 
 ## Professional Summary
 
-A software developer with a keen eye for improving developer's productivity and software reliability through tools and design patterns. Experienced in leading teams and planning, building, and maintaining both web and mobile applications.
+A software developer with a keen eye for improving developer's productivity and software reliability through tools and design patterns. Experienced in leading, building, and maintaining both web and mobile applications.
 
 Some notable achievements include:
 - Integrated linting tools into continuous integration to reduce syntax and merge conflict errors
