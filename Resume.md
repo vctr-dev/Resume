@@ -25,6 +25,7 @@ Some notable achievements include:
 - HTML
 - Perl
 - MySQL
+- Bash
 
 ## Employment History
 
