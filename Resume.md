@@ -12,20 +12,26 @@ Some notable achievements include:
 
 ## Stack
 
-- Javascript
+- Languages
+	- JavaScript
+	- HTML
+	- Perl
+	- MySQL
+	- Bash
+- Frontend
 	- AngularJS
-	- MongoDB
-	- ES6 with Babel transpiler
-	- Express
+	- ReactJS
+- Backend
 	- NodeJS
+	- MongoDB
+	- Express
+	- Dancer
+- Dev Tools
 	- NPM
+	- Babel
 	- Grunt
 	- Webpack
 	- ESLint
-- HTML
-- Perl
-- MySQL
-- Bash
 
 ## Employment History
 
