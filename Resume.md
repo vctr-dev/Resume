@@ -5,10 +5,9 @@
 A software developer with a keen eye for improving developer's productivity and software reliability through tools and design patterns. Experienced in leading, building, and maintaining both web and mobile applications.
 
 Some notable achievements include:
-- Integrated linting tools into continuous integration to reduce syntax and merge conflict errors
-- Built libraries to reduce boilerplate code and introduce design patterns to other developers
-- Led teams to build keynote features in the web application
-
+- Led teams to build keynote features in the web application.
+- Integrated linting tools into continuous integration to reduce bugs.
+- Built libraries to reduce boilerplate code and integrate design patterns.
 
 ## Stack
 
@@ -18,57 +17,65 @@ Some notable achievements include:
 	- Perl
 	- MySQL
 	- Bash
-- Frontend
+- Libraries and Frameworks
 	- AngularJS
 	- ReactJS
-- Backend
-	- NodeJS
+	- MySQL
 	- MongoDB
+	- NodeJS
 	- Express
 	- Dancer
-- Dev Tools
+- Developer Tools
+	- Git
 	- NPM
 	- Babel
+	- ESLint
 	- Grunt
 	- Webpack
-	- ESLint
-	- Git
 
 ## Employment History
 
-### Software Developer at Accelo Pty Ltd
+### Software Developer, Accelo Pty Ltd
 
 - _07/2015 - Current_
 - [Accelo](www.accelo.com) is a professional service application that helps small businesses and startups to manage their business administration. They handle things such as invoices, quotations, client relationship management, issues, project management, and many other aspects of running a business. They integrate with other services such as Quickbooks, Xero, Gmail, and Zapier.
+- Roles
+	- Web Application Front-end Tech Lead
+    - Mobile Team Manager
+    - Developer Productivity Tech Lead
 - Responsibilities
-	- Web and mobile full stack development with focus on feature builds, bug fixes, and tooling.
-	- Conducted technical interviews, talks and training for the different development teams.
+    - Web and mobile full stack development
+        - Feature builds, bug fixes, and tooling.
+    - Conducted technical talks and training for the different development teams.
+    - Conducted technical interviews.
 - Achievements
-	- Built keynote features such as complex dashboards and formula entry fields.
-	- Developed libraries to introduce design patterns to development teams.
-	- Introduced and enforced best practises through linting tools.
-	- Organized book club that led to the clean code movement in the company.
+    - Built keynote features such as complex dashboards and formula fields.
+    - Developed libraries to introduce design patterns to development teams.
+    - Increased developer productivity through building developer tools.
+    - Organized book club that led to the clean code movement in the company.
 - Stack: AngularJS, HTML, NPM, Grunt, Perl, MongoDB, Jenkins, and MySQL.
 
-### Software Developer at Delv Pty Ltd
+### Software Developer, Delv Pty Ltd
 
 - _02/2015 - 07/2015_
 - [Delv](www.delv.com) is a mobile and infrastructure consulting firm that aids both private corporations and government departments to implement mobile device management (MDM) services for mobile devices issued to their employees. They also design and developed mobile applications for clients according to the required design and development specifications.
-- Role: Prototyped and developed iOS applications according to client specifications. These included building and managing MongoDB, API endpoints, and web interface for administering the database.
+- Responsibilities
+    - Prototyped and developed iOS applications according to client specs.
+    - Built and managed MongoDB, API endpoints, and web interface for administering the database.
 - Stack used: MongoDB, Express, Angular, NodeJS, and Swift
 
-### Independent iOS Developer
+### iOS Developer, Freelance
 
 - _2011 - 2015_
-- Role:
-	- Prototyped and designed iOS application according to client specification
-	- Interviewed and gathered requirements and purpose of application
-	- Designed wireframes and mockups for the clients
-	- Development and frequent check-ins with clients
+- Responsibilities
+    - Prototyped and designed iOS application according to client specs.
+    - Interviewed and gathered requirements and purpose of application.
+    - Designed wireframes and mockups for the clients.
+    - Development and frequent check-ins with clients.
 
 ## Education
 
-- National University Of Singapore, Bachelor Of Computing
+- National University Of Singapore, B.Comp
 	- _08/2009 – 05/2013_
 	- Graduated with Second Upper Honors
 
