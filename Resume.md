@@ -15,23 +15,13 @@ Some notable achievements include:
 	- JavaScript
 	- HTML
 	- Perl
-	- MySQL
 	- Bash
 - Libraries and Frameworks
 	- AngularJS
 	- ReactJS
 	- MySQL
-	- MongoDB
 	- NodeJS
 	- Express
-	- Dancer
-- Developer Tools
-	- Git
-	- NPM
-	- Babel
-	- ESLint
-	- Grunt
-	- Webpack
 
 ## Employment History
 
@@ -39,35 +29,28 @@ Some notable achievements include:
 
 - _07/2015 - Current_
 - [Accelo](www.accelo.com) is a professional service application that helps small businesses and startups to manage their business administration. They handle things such as invoices, quotations, client relationship management, issues, project management, and many other aspects of running a business. They integrate with other services such as Quickbooks, Xero, Gmail, and Zapier.
-- Roles
 	- Web Application Front-end Tech Lead
+        - Built and maintained key features such as complex dashboards and formula fields.
+        - Managed cross-team collaboration to build new modules and services.
+        - Conducted technical talks and training.
+        - Conducted technical interviews.
+        - Organized book club that led to the clean code movement in the company.
     - Mobile Team Manager
+        - Organized communication and workflow between teams to allow for parallel development and releases.
     - Developer Productivity Tech Lead
-- Responsibilities
-    - Web and mobile full stack development
-        - Feature builds, bug fixes, and tooling.
-    - Conducted technical talks and training for the different development teams.
-    - Conducted technical interviews.
-- Achievements
-    - Built keynote features such as complex dashboards and formula fields.
-    - Developed libraries to introduce design patterns to development teams.
-    - Increased developer productivity through building developer tools.
-    - Organized book club that led to the clean code movement in the company.
-- Stack: AngularJS, HTML, NPM, Grunt, Perl, MongoDB, Jenkins, and MySQL.
+        - Developed libraries to introduce design patterns across teams.
+        - Introduced tools to increase productivity and code reliability.
 
 ### Software Developer, Delv Pty Ltd
 
 - _02/2015 - 07/2015_
 - [Delv](www.delv.com) is a mobile and infrastructure consulting firm that aids both private corporations and government departments to implement mobile device management (MDM) services for mobile devices issued to their employees. They also design and developed mobile applications for clients according to the required design and development specifications.
-- Responsibilities
     - Prototyped and developed iOS applications according to client specs.
     - Built and managed MongoDB, API endpoints, and web interface for administering the database.
-- Stack used: MongoDB, Express, Angular, NodeJS, and Swift
 
 ### iOS Developer, Freelance
 
 - _2011 - 2015_
-- Responsibilities
     - Prototyped and designed iOS application according to client specs.
     - Interviewed and gathered requirements and purpose of application.
     - Designed wireframes and mockups for the clients.
